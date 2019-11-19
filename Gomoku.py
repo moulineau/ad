@@ -3,7 +3,7 @@ def Grille_depart () : #initialise la grille de depart
     T = [[0] * 15 for compteur in range(15)]
     return T
 
-
+int a =6552252
 def afficheGrille(table): #affiche une grille
     print("\t  1   2   3   4   5   6   7   8   9   10  11  12  13  14  15")
     print("\t-------------------------------------------------------------")
